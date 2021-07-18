@@ -6,6 +6,6 @@ More changes from featuer branch
 
 Sample website with plenty of files for demos
 ##copyright
-git.training
+git.training all rights reserved
 
 ## how to contribute
